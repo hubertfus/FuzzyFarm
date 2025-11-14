@@ -1,0 +1,52 @@
+{
+  "PICO-e6642815": {
+    "deviceId": "PICO-e6642815",
+    "deviceType": "env-sensor",
+    "deviceName": "EnvSensor-1",
+    "farmId": "rack-1",
+    "lastSeen": 1763164064.818614,
+    "lastSeenAgeSec": 0.0,
+    "online": true,
+    "ip": "192.168.0.135"
+  },
+  "PICO-e663ac91": {
+    "deviceId": "PICO-e663ac91",
+    "deviceName": "LightCtrl-1",
+    "deviceType": "light-controller",
+    "farmId": "rack-1",
+    "ip": "192.168.0.190",
+    "lastSeen": 1763163651.5806727,
+    "lastSeenAgeSec": 412.7126958370209,
+    "online": true
+  },
+  "PICO2-e6642815": {
+    "deviceId": "PICO2-e6642815",
+    "deviceType": "soil-sensor",
+    "farmId": "rack-1",
+    "lastSeen": 1763163966.8176281,
+    "lastSeenAgeSec": 97.47574043273926,
+    "online": true,
+    "deviceName": "SoilSensor-2",
+    "ip": "192.168.0.127"
+  },
+  "PICO1-e6642815": {
+    "deviceId": "PICO1-e6642815",
+    "deviceType": "soil-sensor",
+    "farmId": "rack-1",
+    "lastSeen": 1763164002.6676311,
+    "lastSeenAgeSec": 61.62573742866516,
+    "online": true,
+    "ip": "192.168.0.121",
+    "deviceName": "SoilSensor-1"
+  },
+  "PICO-e6648045-pump": {
+    "deviceId": "PICO-e6648045-pump",
+    "deviceType": "pump-controller",
+    "deviceName": "PumpCtrl-1",
+    "farmId": "rack-1",
+    "ip": "192.168.0.157",
+    "lastSeen": 1763163620.0750246,
+    "lastSeenAgeSec": 444.2183439731598,
+    "online": true
+  }
+}
